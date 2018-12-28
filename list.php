@@ -367,11 +367,11 @@ $countriesWithCode=[
             ],
             'GW' => [
                 'name'=>'Guinea-Bissau',
-                'nationality'=>''
+                'nationality'=>'Bissau-Guinean'
             ],
             'GY' => [
                 'name'=>'Guyana',
-                'nationality'=>'Guinea-Bissauan'
+                'nationality'=>'Guyanese'
             ],
             'HT' => [
                 'name'=>'Haiti',
@@ -587,7 +587,7 @@ $countriesWithCode=[
             ],
             'ME' => [
                 'name'=>'Montenegro',
-                'nationality'=>''
+                'nationality'=>'Montenegrin'
             ],
             'MS' => [
                 'name'=>'Montserrat',
@@ -735,7 +735,7 @@ $countriesWithCode=[
             ],
             'BL' => [
                 'name'=>'Saint Barthelemy',
-                'nationality'=>''
+                'nationality'=>'Saint Barthelemy'
             ],
             'SH' => [
                 'name'=>'Saint Helena',
@@ -831,7 +831,7 @@ $countriesWithCode=[
             ],
             'SD' => [
                 'name'=>'Sudan',
-                'nationality'=>''
+                'nationality'=>'Sudanese'
             ],
             'SR' => [
                 'name'=>'Suriname',
